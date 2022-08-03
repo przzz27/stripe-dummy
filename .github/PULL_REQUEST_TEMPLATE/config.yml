@@ -1,4 +1,4 @@
-blank_pull_requests_enabled: false
+blank_pull_requests_enabled: true
 contact_links:
   - name: GitHub Community Support
     url: https://github.com/orgs/community/discussions
